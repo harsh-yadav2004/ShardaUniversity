@@ -1,3 +1,3 @@
 # ShardaUniversity-demo
-This my first Git Repository
+This my first Git Repository.
 Author - Harsh Yadav
